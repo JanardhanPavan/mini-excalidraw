@@ -258,3 +258,9 @@ All data is **stored in-memory** and will reset when the server restarts.
 Developed as a **Take-Home Assignment** — _Mini Excalidraw Project_  
 Built with ❤️ using **React, TypeScript, Node.js, and Express.**
 "# mini-excalidraw-server" 
+
+---
+
+## LINKS
+client: https://sparkly-buttercream-b1ba91.netlify.app/
+Server : https://janardhanpavan-mini-excalidraw-server.onrender.com/
